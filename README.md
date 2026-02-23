@@ -29,3 +29,4 @@ Follow the instructions below to set up the project and run it on your local mac
 
 ## 📄 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute it in your own projects. See the LICENSE file for more details.
+
