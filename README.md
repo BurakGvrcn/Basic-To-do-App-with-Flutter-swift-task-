@@ -1,16 +1,31 @@
-# my_basic_app
+# 📝 Swift Task (Basic To-Do App)
 
-A new Flutter project.
+A minimalist and fast Task Manager (To-Do) application built with Flutter. Designed to help you track your daily tasks and boost your productivity.
 
-## Getting Started
+## ✨ Features
+* ⚡ **Fast and Fluid:** High performance powered by the Flutter framework.
+* 📱 **Cross-Platform:** Built from a single codebase with support for Windows, Android, and iOS.
+* 🎯 **User-Friendly Interface:** A clean, minimalist design that focuses entirely on your tasks without any visual clutter.
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+Follow the instructions below to set up the project and run it on your local machine.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**1. Clone the repository:**
+`git clone https://github.com/BurakGvrcn/Basic-To-do-App-with-Flutter-swift-task-.git`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**2. Navigate to the project directory:**
+`cd Basic-To-do-App-with-Flutter-swift-task-`
+
+**3. Install dependencies:**
+`flutter pub get`
+
+**4. Run the application:**
+`flutter run`
+
+## 🛠️ Built With
+* **Framework:** Flutter
+* **Language:** Dart
+
+## 📄 License
+This project is licensed under the MIT License. You are free to use, modify, and distribute it in your own projects. See the LICENSE file for more details.
